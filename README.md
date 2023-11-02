@@ -17,7 +17,7 @@ Calcula-se para zerar:
 a21 - a11 * x = 0
 a11 = a21 / x
 
-Logo: 21 / a11 = x
+Logo: a21 / a11 = x
 Assim, o valor de x é armazenado na variavel 'mult', que é posteriormente multiplica pela linha1 e subtraida da linhaN, zerando as entradas do triangulo inferior e conservando
 a igualdade matricial.
 
