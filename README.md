@@ -22,7 +22,7 @@ Assim, o valor de x é armazenado na variavel 'mult', que é posteriormente mult
 a igualdade matricial.
 
 
-Após a transformação em matriz triangular, a determinante é calculada apenas multiplicando as entradas de sua diagonal princial:
+Após a transformação em matriz triangular, a determinante é calculada apenas multiplicando as entradas de sua diagonal principal:
 
 |a11 a12 a13 |
 | 0  a22 a23 |  =  det(a11 * a22 * a33)
