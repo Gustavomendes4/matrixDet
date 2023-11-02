@@ -9,9 +9,9 @@ Após isto, sabendo as dimenções, é solicitado individualmente as entradas da
 Após informada todas as entradas, o código utiliza de repetições FOR em cascata para zerar o triangulo inferior da matriz:
 
 Lógica: 
-  Dada a matriz de ordem 3:   a11 a12 a23
-                              a21 a22 a23
-                              a31 a32 a33
+  Dada a matriz de ordem 3:   a11 a12 a23\n
+                              a21 a22 a23\n
+                              a31 a32 a33\n
                               
 Calcula-se para zerar:
 a21 - a11 * x = 0
