@@ -27,3 +27,5 @@ Após a transformação em matriz triangular, a determinante é calculada apenas
 |a11 a12 a13 |
 | 0  a22 a23 |  =  det(a11 * a22 * a33)
 | 0   0  a33 |
+
+** Código em versao de testes, contando ainda com BUGS como no caso de 0 como termo a11, que resulta em uma divisão por 0.
